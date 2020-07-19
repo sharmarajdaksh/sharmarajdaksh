@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Dakshraj Sharma
+### Hi, I'm Dakshraj Sharma
 #### I like to code.
 
 Skills: Full Stack Web Development, DevOps
